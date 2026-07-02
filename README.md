@@ -130,6 +130,6 @@ Through this project, you will learn:
 
 ## 👩‍💻 Author
 
-**Garishma Handa**
+**khushal**
 
 Data Analytics Internship Project
